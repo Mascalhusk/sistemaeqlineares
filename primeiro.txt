@@ -3,4 +3,8 @@
 
 criei uma função
 	ta ficando legal...:
+<<<<<<< HEAD
 a=5
+=======
+a=4
+>>>>>>> muda
